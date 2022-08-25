@@ -1,0 +1,30 @@
+created: 20220329014205871
+creator: @oeyoews
+difficulty: 1
+due: 20220608020609452
+grade: 1
+history: [{"due":"20220423102257725","interval":0,"difficulty":0.3108704956392557,"stability":0.10000011324882507,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220422102257725"}]
+interval: 31
+lapses: 0
+modified: 20220523020609453
+modifier: oeyoews
+reps: 2
+retrievability: 6.5342235765468474e-15
+review: 20220523020609452
+stability: 16.439773952841332
+tags: EnglishWord ?
+title: combat
+type: text/vnd.tiddlywiki
+
+<<<
+"""
+combat
+英 ['kɒmbæt; 'kʌm-]  美 ['kɑmbæt]
+vt. 反对；与…战斗
+vi. 战斗；搏斗
+n. 战斗；争论
+adj. 战斗的；为…斗争的
+n. (Combat)人名；(法)孔巴
+CET4 TEM4  ( combatting, combatted, combats )
+"""
+<<<

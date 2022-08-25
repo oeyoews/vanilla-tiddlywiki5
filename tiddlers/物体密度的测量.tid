@@ -1,0 +1,76 @@
+caption: Measurement of the Density of Objects
+created: 20220525151624051
+creator: oeyoews
+modified: 20220527003610333
+modifier: oeyoews
+title: 物体密度的测量
+type: text/vnd.tiddlywiki
+
+> No Form, only a question
+
+> 三个表格选一个
+
+> 数据大致不会发生变化
+
+<details>
+<summary>Img</summary>
+[img[GEOG22R6F0DWJZ74K1JII.jpg]]
+</details>
+
+[[link|http://www.wsbookshow.com/uploads/bookfile/201301/9787517005889_1.pdf]]
+
+!! 直接法测量规则物体的密度
+
+$$ 
+p = m/v 
+$$
+
+<details>
+<summary>Img</summary>
+[img[imagedir.png]]
+</details>
+
+* 使用复称法测量规则物体的质量
+
+<details>
+<summary>Img</summary>
+[img[imagemm.png]]
+</details>
+
+* 使用螺旋测微器测量直径（铜柱体）， 高度使用游标卡尺测量
+
+!! 流体静力称衡法测量不规则物体的密度
+
+<details>
+<summary>Img</summary>
+[img[imageliquaidd.png]]
+</details>
+
+!! 物理天平使用注意事项
+
+1、托盘物理天平的主要组成部件：（调节零点的） 螺丝、游码、刻度尺、指针、托盘（分左右两个）。
+
+2、调节底座螺丝，观察天平底座上水准仪，使天平整体水平。
+
+3、称量前应首先检查天平是否处于平衡状态。若不平衡，应在天平支起状态下调节螺丝使之平衡此时托盘上的挂钩应挂在天平横梁的刀口上。
+
+4、被称量物要放在左盘中，砝码要放在右盘中。
+
+5、取砝码时，切不可用手拿取，而必须用镊子夹取。
+
+6、在添加砝码时，应先夹质量大的砝码，然后在依次添加质量小的砝码（最后再移动游码），取放砝码和物体时，天平必须放下，然后再支起看平衡情况决定增减砝码。
+
+7、称量完毕后，应把砝码放回砝码盒中，把游码移回零处，使天平恢复原来的状态。
+
+!! 比重瓶法
+
+[img[imagebottle.png]]
+
+
+!! Images
+
+<details>
+<summary>Img</summary>
+[img[imagep.png]]
+[img[9595686abb424de68271bfe85cee7a47.png]]
+</details>

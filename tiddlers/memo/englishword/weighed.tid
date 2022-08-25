@@ -1,0 +1,19 @@
+created: 20220314025343381
+creator: @oeyoews
+history: [{"due":"20220319135537159","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318135537159"},{"due":"20220328153129339","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":1,"lapses":0,"reps":2,"review":"20220319153129339"}]
+modified: 20220521161403689
+modifier: oeyoews
+tags: EnglishWord !
+title: weighed
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+weigh
+英 [weɪ]  美 [weɪ]
+vt. 权衡；考虑；称…重量
+vi. 重量为…；具有重要性；成为…的重荷；起锚
+n. 权衡；称重量
+CET4 TEM4  ( weighing, weighed, weighs )
+"""
+<<<

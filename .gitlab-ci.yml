@@ -1,0 +1,128 @@
+#image: node:latest
+
+
+#pages:
+  #only:
+    ##- tags
+    #- main
+
+  #script:
+    #- yarn build@vercel
+
+  #artifacts:
+    ##enabled: false
+    #paths:
+      #- public
+  ##expire_in: 20 minutes
+
+#https://www.marclittlemore.com/automating-your-releases-with-semantic-release-and-gitlab/
+
+
+# == semantic-release
+stages:
+  - release
+  - deploy
+
+Release:
+  # This is part of the release stage
+  stage: release
+  image: node:16
+
+  variables:
+    GITLAB_TOKEN: $GITLAB_TOKEN
+    #GIT_CLEAN_FLAGS: -fdx -e node_modules/
+  before_script:
+    - yarn install
+
+
+#image: node:latest
+#https://docs.gitlab.cn/jh/ci/caching/
+  cache:
+    #key: $CI_COMMIT_REF_SLUG
+    key:
+      files:
+        - yarn.lock
+    paths:
+      #- .yarn-cache/
+      - node_modules/
+
+  # Execute semantic-release to create a new release
+  script:
+    #- yarn install --frozen-lockfile --no-progress
+    - yarn semantic-release
+
+  #cache:
+    #paths:
+      #- node_modules
+#https://semantic-release.gitbook.io/semantic-release/v/beta/recipes/recipes/gitlab-ci
+# The release pipeline will run only if all jobs in the test pipeline are successful
+#stages:
+    #- test
+    #- release
+
+#before_script:
+  #- yarn install
+
+#publish:
+  #image: node:latest
+  #stage: release
+  #script:
+    #- npx semantic-release
+
+#https://docs.gitlab.cn/jh/ci/examples/semantic-release.html
+#image: node:latest
+#before_script:
+  ##- npm ci --cache .npm --prefer-offline
+  #- yarn install
+  #- |
+    #{
+      #echo "@${CI_PROJECT_ROOT_NAMESPACE}:registry=${CI_API_V4_URL}/projects/${CI_PROJECT_ID}/packages/npm/"
+      #echo "${CI_API_V4_URL#https?}/projects/${CI_PROJECT_ID}/packages/npm/:_authToken=\${CI_JOB_TOKEN}"
+    #} | tee -a .npmrc
+#cache:
+  #key: ${CI_COMMIT_REF_SLUG}
+  #paths:
+    #- .npm/
+
+#workflow:
+  #rules:
+    #- if: $CI_COMMIT_BRANCH
+
+#variables:
+  #NPM_TOKEN: ${CI_JOB_TOKEN}
+
+
+#stages:
+#
+  #- test
+  #- release
+
+#publish:
+  #stage: release
+  #script:
+    #- npm run semantic-release
+  #rules:
+    #- if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+# jekyll
+#image: ruby:latest
+
+#variables:
+  #JEKYLL_ENV: production
+  #LC_ALL: C.UTF-8
+
+#before_script:
+  #- gem install bundler
+  #- bundle install
+
+#pages:
+  #only:
+    #- tags
+  #stage: deploy
+  #script:
+  #- bundle exec jekyll build -d public
+  #artifacts:
+    #paths:
+    #- public
+  #rules:
+    #- if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH

@@ -1,0 +1,24 @@
+.ocenter {
+	text-align: center;
+}
+
+.oimg {
+	border-radius: 5px;
+	border: 5px solid cyan;
+	width: 256px;
+	margin: 5px;
+	box-shadow: 1px 5px 5px #0000004d;
+	transition: .5s;
+}
+
+.oimg:hover {
+	border: 5px solid yellow;
+}
+
+.oag {
+	color: cyan;
+	font-weight: bold;
+	background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
+	-webkit-background-clip: text;
+	color: transparent;
+}

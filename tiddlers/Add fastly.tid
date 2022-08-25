@@ -1,0 +1,26 @@
+created: 20211226094152512
+creator: oeyoews
+modified: 20220306155058443
+modifier: oeyoews
+tags: docs
+title: Add fastly
+type: text/vnd.tiddlywiki
+
+<fieldset>
+	<legend>Entry</legend>
+	
+	<$button>
+		<$action-sendmessage $message="tm-new-tiddler" title=<<now>>  tags="??" />
+	??
+	</$button>
+	
+			<$button>
+		<$action-sendmessage $message="tm-new-tiddler" tags="EnglishWord" text='<<<.tc-fish-quote
+"""
+
+"""
+<<<'/>
+	EnglishWord
+	</$button>
+
+</fieldset>

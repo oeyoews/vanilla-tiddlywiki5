@@ -1,0 +1,16 @@
+[Unit]
+Description=TiddlyWiki5 Service
+Documentation=https://oeyoews.top
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=oeyoews
+WorkingDirectory=/home/oeyoews/REPOS/TiddlyWiki5
+ExecStart=/usr/bin/tiddlywiki --listen port=8090 anon-username=oeyoews use-browser-cache=yes gzip=yes
+ExecStop=/bin/kill -s QUIT $MAINPID
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

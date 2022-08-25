@@ -1,0 +1,14 @@
+author: oeyoews
+core-version: >=5.1.22
+created: 20220726055455858
+dependents: $:/themes/tiddlywiki/vanilla $:/plugins/nico/notebook-mobile
+description: A clean, uncluttered TiddlyWiki theme
+list: README changelog
+modified: 20220726062246750
+name: Notebook theme
+packaged-by: Gatha on 26th July 2022, 14:22:57
+plugin-type: theme
+source: 
+title: $:/themes/nico/notebook
+type: application/json
+version: 2.0.3

@@ -1,0 +1,43 @@
+# npm files
+node_modules
+yarn-error.log
+.yarn-cache
+
+# linux system
+nohup*
+.log.txt
+
+# submodule
+subwiki
+/* img */
+
+# some ignore folder
+localignore
+# trashbin
+trash
+
+# tw5
+\$__Import.tid
+output
+public
+\$__StoryList*
+Draft*
+\$__xp_manageTags_tagging.tid
+
+# 2022hkw.json
+# 2022hkw*.tid
+
+\$__state_notebook-sidebar.tid
+\$__themes_nico_notebook_ui_Bottombar.tid
+# $__state_notebook-sidebar.tid
+\?
+
+# -\$*
+package-lock.json
+
+# test
+test
+
+bin/
+
+\$__PrintList.tid

@@ -1,0 +1,45 @@
+created: 20220525142545512
+creator: oeyoews
+modified: 20220528013759913
+modifier: oeyoews
+tags: phycics
+title: Physics Experiment
+type: text/vnd.tiddlywiki
+
+<<.warning END>>
+
+<<shield Version v0.0.5_alpha red>> <<shield Status End purple>>
+
+
+<div style="border:3px solid red; padding: 4px; margin: 4px; border-radius: 4px;">
+
+!!!  <<sticky-done "🍵 1." "  ">> [[等厚干涉现象的研究]]<small>（701 张超）</small>
+
+!!! <<sticky-done "🍵 2." "  ">> [[物体转动惯量测量]]
+
+!!! <<sticky-done "🌿 3. " "  ">>[[静电场模拟]]<small>（301 郑春霞）</small>
+
+!!! <<sticky-done "🌿 4. " "  ">>[[电表的改装与校准]]
+
+!!! <<sticky "🍠 5.  ">>[[薄透镜焦距的测量]] <small>(p36 201： 樊莹莹)</small>
+
+!!! <<sticky "🍠 6. ">>[[分光计的调节与使用]] 
+
+<hr style="background:red;">
+
+!!! <<sticky "🌹 7.">> [[液体黏滞系数的测量]]<small>（203 陈红梅）</small>
+
+!!! <<sticky "🌹 8. ">>[[物体密度的测量]]
+
+!!! <<sticky "🔺 9.">> [[牛顿第二定律的验证]]<small>（205 郭保春）</small>
+
+!!! <<sticky-done "🔺 10." "  ">> [[示波器的调节与使用]]
+
+</div>
+
+[[Videos Link|https://www.toutiao.com/c/user/token/MS4wLjABAAAAa5Fgj7S-fGZZk0dZvyl5n91p77hSAwUBEzI_A5d2VjdPZe86Kzyu6qNS_yZJ9tyY/??tab=video]]
+
+<details>
+<summary>QR Code</summary>
+[img[erweima.jpg]]
+</details>

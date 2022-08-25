@@ -1,0 +1,10 @@
+created: 20220529004214237
+creator: oeyoews
+modified: 20220529153743401
+modifier: oeyoews
+status: open
+tags: 
+title: untitled 142
+type: text/vnd.tiddlywiki
+
+<$checkbox field="status" checked="open" unchecked="close" default="close">open？</$checkbox><br />''status:'' {{!!status}}

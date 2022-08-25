@@ -1,0 +1,20 @@
+created: 20220323160750335
+creator: @oeyoews
+description: Fishcalendar
+modified: 20220512015406515
+modifier: oeyoews
+tags: 
+title: FCal Button
+type: text/vnd.tiddlywiki
+
+\whitespace trim
+<$button to="FCalendar" tooltip={{$:/language/Buttons/Home/Hint}} aria-label={{$:/language/Buttons/Home/Caption}} class=<<tv-config-toolbar-class>>>
+<$list filter="[<tv-config-toolbar-icons>match[yes]]">
+{{$:/plugins/nico/projectify/images/calendar}}
+</$list>
+<$list filter="[<tv-config-toolbar-text>match[yes]]">
+<span class="tc-btn-text">
+<$text text="FCalender"/>
+</span>
+</$list>
+</$button>

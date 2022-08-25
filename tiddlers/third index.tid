@@ -1,0 +1,24 @@
+created: 20220216105324777
+creator: oeyoews
+modified: 20220217130259791
+modifier: oeyoews
+tags: examples
+title: third index
+type: text/vnd.tiddlywiki
+
+<div style="text-align: left;background: #073642;border-radius:5px;float:none">
+<details>
+<summary>TOC</summary>
+
+
+{{TOC}}
+</details>
+
+
+</div>
+
+<!--
+<<details label:"TOC" src: "{{TOC}} [[anoTOC|thrDire]]"labelClass:"bg-dark text-warning">>
+-->
+
+<!--[[bootstrap|https://getbootstrap.com/docs/4.0/utilities/colors/]]-->

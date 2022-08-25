@@ -1,0 +1,30 @@
+created: 20220316031812393
+creator: @oeyoews
+difficulty: 1.0579756038707566
+due: 20221224035730504
+grade: 1
+history: [{"due":"20220317113038522","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316113038522"},{"due":"20220325093416678","interval":1,"difficulty":1.1997785452241592,"stability":7.785265802052035,"retrievability":0.3486917532007223,"grade":1,"lapses":0,"reps":2,"review":"20220317093416678"},{"due":"20220505054417533","interval":8,"difficulty":1,"stability":41.2694012620908,"retrievability":0.8973883361662355,"grade":2,"lapses":0,"reps":3,"review":"20220325054417533"}]
+interval: 60
+lapses: 0
+modified: 20220524035730504
+modifier: oeyoews
+reps: 4
+retrievability: 0.8579756038707567
+review: 20220524035730504
+stability: 213.88853329484803
+tags: EnglishWord ?
+title: plough
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+plough
+英 [plaʊ]  美 [plaʊ]
+vt. 犁；耕
+vi. 用犁耕田；开路
+n. 犁；耕地（等于plow）
+n. (Plough)人名；(英)普劳
+CET4 TEM4  ( ploughing, ploughed, ploughs )
+"""
+<<<
+* plough through sth 艰难做某事

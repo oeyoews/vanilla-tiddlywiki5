@@ -1,0 +1,21 @@
+created: 20220311135338306
+creator: @oeyoews
+history: [{"due":"20220313063358057","interval":0,"difficulty":2.8048752853837478,"stability":0.10002899169921875,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220312063358057"},{"due":"20220313165802274","interval":0,"difficulty":4.004875285383748,"stability":0.07410329964720157,"retrievability":1,"grade":0,"lapses":1,"reps":1,"review":"20220312165802274"}]
+modified: 20220319014731956
+modifier: @oeyoews
+tags: EnglishWord !
+title: trim
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+trim
+英 [trɪm]  美 [trɪm]
+vt. ''修剪''；整理；装点
+vi. 削减
+n. 修剪；整齐；情形
+adj. 整齐的
+n. (Trim)人名；(意)特里姆
+CET4 TEM4  ( trimming, trimmed, trimmer, trims, trimmest )
+"""
+<<<

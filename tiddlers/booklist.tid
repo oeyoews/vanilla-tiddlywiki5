@@ -1,0 +1,14 @@
+created: 20220210193015251
+creator: oeyoews
+modified: 20220217114047117
+modifier: oeyoews
+tags: examples
+title: booklist
+type: text/vnd.tiddlywiki
+
+<$checkbox> 的为已读但未完成读书笔记的书籍，☑️的为已读并写完读书笔记的书籍。
+
+<$macrocall $name=table-dynamic filter="[tag[books]]" fields="tbl-checkbox tbl-expand title author genre created due" class="w-100" stateTiddler="your-state-tid"/>
+
+
+<$button message="tm-close-tiddler">Close Me!</$button>

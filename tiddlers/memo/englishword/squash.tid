@@ -1,0 +1,28 @@
+created: 20220316100444657
+creator: @oeyoews
+difficulty: 1.108960539201892
+due: 20220505170213109
+grade: 1
+history: [{"due":"20220319143752666","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318143752666"},{"due":"20220328005539021","interval":1,"difficulty":1,"stability":8.830302388320703,"retrievability":0.3486850967074362,"grade":2,"lapses":0,"reps":2,"review":"20220319005539020"}]
+interval: 8
+lapses: 0
+modified: 20220327170213109
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9089605392018921
+review: 20220327170213109
+stability: 39.21389051323656
+tags: EnglishWord ?
+title: squash
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+squash
+英 [skwɒʃ]  美 [skwɔʃ]
+vt. 镇压；把…压扁；使沉默
+vi. 受挤压；发出挤压声；挤入
+n. 壁球；挤压；咯吱声；南瓜属植物；（英）果汁饮料
+CET6+ TEM8  ( squashing, squashed, squashes )
+"""
+<<<

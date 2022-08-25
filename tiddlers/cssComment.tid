@@ -1,0 +1,11 @@
+created: 20220214131821360
+creator: oeyoews
+modified: 20220218195553492
+modifier: oeyoews
+tags: frontend
+title: cssComment
+type: text/vnd.tiddlywiki
+
+```css
+/* this is a comment */
+```

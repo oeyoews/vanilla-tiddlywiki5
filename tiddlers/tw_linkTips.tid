@@ -1,0 +1,12 @@
+created: 20220111163400691
+creator: oeyoews
+modified: 20220220054651200
+modifier: oeyoews
+tags: TiddlyWiki5 tips
+title: tw/linkTips
+type: text/vnd.tiddlywiki
+
+> in double brackets, can't have whitespace in pipline symbols.
+
+* e.g. 
+> [[demo|https://oeyoews.top]]

@@ -1,0 +1,27 @@
+created: 20211229104044149
+modified: 20220217114047188
+modifier: oeyoews
+tags: Win tips
+title: window/tw/bat
+type: text/vnd.tiddlywiki
+
+```bat
+cd C:/User/xxxx
+start /b tiddlywiki --listen
+start "xxxx.msedge.exe" http://127.0.0.1:8080
+```
+
+!!! comment
+* use :: to comment bat code
+
+!!! dependcied
+* node
+* tiddlywiki(npm i -g tiddlywiki)
+* git(optional)
+* microsoft(default)
+
+<hr>
+
+!!! cmd
+* `cls` clear window cmd screen
+* `powershell` in <kbd>win+r </kbd> input

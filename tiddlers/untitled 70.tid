@@ -1,0 +1,17 @@
+created: 20220309144935127
+creator: @oeyoews
+modified: 20220310084109612
+modifier: @oeyoews
+tags: gnome
+title: untitled 70
+type: text/vnd.tiddlywiki
+
+* sudo systemctl unmask ''power-profiles-daemon.service''
+
+* https://www.cnblogs.com/jaycethanks/p/12623655.html
+<div style="text-align: center">
+<p> 
+</p>
+<img src="https://cdn.jsDelivr.net/gh/oeyoews/img/nightdisplay.png
+" title="img" alt="img" style="zoom: 80%" />
+</div>

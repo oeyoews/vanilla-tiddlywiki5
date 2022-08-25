@@ -1,0 +1,30 @@
+created: 20220319035811081
+creator: @oeyoews
+difficulty: 1
+due: 20220515011252896
+grade: 2
+history: [{"due":"20220320114440418","interval":0,"difficulty":1.2223120588350453,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220319114440418"},{"due":"20220321062149520","interval":1,"difficulty":1.7709971555424815,"stability":0.07408249324251646,"retrievability":0.3486850967074362,"grade":0,"lapses":1,"reps":1,"review":"20220320062149520"},{"due":"20220330061405436","interval":1,"difficulty":1,"stability":8.569934531523112,"retrievability":0.24118154863103877,"grade":2,"lapses":1,"reps":2,"review":"20220321061405435"}]
+interval: 9
+lapses: 1
+modified: 20220330011252896
+modifier: @oeyoews
+reps: 3
+retrievability: 0.8952539769164432
+review: 20220330011252895
+stability: 45.51995034365141
+tags: EnglishWord ?
+title: poll
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+英 [pəʊl]  美 [pol]
+n. ''投票''；民意测验；投票数；投票所
+vt. 投票；剪短；对…进行民意测验；获得选票
+vi. 投票
+adj. 无角的；剪过毛的；修过枝的
+n. (Poll)人名；(德、匈、罗、英)波尔
+CET4 TEM4  ( polling, polled, polls )
+[[ballot]]
+"""
+<<<

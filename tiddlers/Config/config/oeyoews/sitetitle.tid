@@ -1,0 +1,23 @@
+caption: sitetitle
+created: 20220322112723685
+creator: @oeyoews
+modified: 20220618135027476
+modifier: oeyoews
+tags: config
+title: $:/config/oeyoews/sitetitle
+type: text/vnd.tiddlywiki
+
+<!--
+TiddlyWiki5
+<<.icon [[GripFire Yellow]]>>
+🎣   
+🥏
+🐬 
+
+FishForYou
+<sup>
+[img width=72 [https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=gitlab]]
+</sup>
+-->
+
+{{$:/config/gradienttext}} 

@@ -1,0 +1,58 @@
+created: 20220108094220755
+creator: @oeyoews
+history: [{"due":"20220315111320078","interval":0,"difficulty":1.8299972256802912,"stability":0.1000072479248047,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220314111320078"}]
+modified: 20220320151009720
+modifier: @oeyoews
+recall: 1
+tags: English/66 !
+title: English/3
+type: text/vnd.tiddlywiki
+
+!!!sentence
+<!-- write here -->
+<<<
+
+'' 
+<p style="text-indent:2em">
+
+Anyone who has [[toiled]] through SAT will [[testify]] that test-takin skill also matters, whether it's knowing when to guess what questions to skip.
+
+</p>
+''
+<<<
+
+<hr>
+
+!!! translate
+<<<
+<p style="text-indent:2em">
+<!-- write here -->
+
+任何一个曾经辛苦的经历过SAT考试的人都会证实考试的技巧也很重要，无论这种技巧是知道什么时候去猜还是知道什么问题应该跳过。
+</p>
+<<<
+<hr>
+
+!!! vocabulary
+
+* Toil through (辛苦的经历)
+** Winston Churchill: "Blood, Toil, Tears and Sweat”(丘吉尔演讲)
+
+* sweat and toil （汗水和辛苦）
+
+** He succeeded after years of toil. (他经历数年的辛劳之后成功了)
+
+> SAT 美国高考 全称为scholastic assessment test 学术性评估测试
+
+* testify 证实
+* matter 这里是动词，重要；sth matters 事情很重要；
+
+
+<hr>
+
+!!! analyze
+"""
+【主干识别】anyone 为句子的主语，will testify 为句子谓语，that引导一个宾语从句；
+
+【其他成分】that 引导的宾语从句中test-taking skill 为主语，matters 做谓语，whether 引导一个状语从句
+"""

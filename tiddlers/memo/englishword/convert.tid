@@ -1,0 +1,21 @@
+created: 20220316113053770
+creator: @oeyoews
+history: [{"due":"20220317152356659","interval":0,"difficulty":1.6510867920234369,"stability":0.10000362396240235,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220316152356658"},{"due":"20220318113229819","interval":1,"difficulty":2.1997785452241594,"stability":0.07408450676555052,"retrievability":0.3486917532007223,"grade":0,"lapses":1,"reps":1,"review":"20220317113229818"},{"due":"20220327050441470","interval":1,"difficulty":1,"stability":8.569972329809564,"retrievability":0.24119087137976164,"grade":2,"lapses":1,"reps":2,"review":"20220318050441470"}]
+modified: 20220520171404048
+modifier: oeyoews
+tags: EnglishWord !
+title: convert
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+convert
+英 [kən'vɜːt]  美 [kən'vɝt]
+vt. 使转变；转换…；使…改变信仰
+vi. ''转变''，变换；皈依；改变信仰
+n. 皈依者；改变宗教信仰者
+n. (Convert)人名；(法)孔韦尔
+CET4 TEM4  ( converting, converted, converts )
+[[convent]]
+"""
+<<<

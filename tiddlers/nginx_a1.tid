@@ -1,0 +1,17 @@
+created: 20220102112425251
+difficulty: 5
+due: 20220114165622590
+history: []
+interval: 0
+lapses: 0
+modified: 20220217114047164
+modifier: oeyoews
+recall: 1
+reps: 1
+review: 20220112165622590
+stability: 2
+tags: nginx Linux
+title: nginx/a1
+type: text/vnd.tiddlywiki
+
+nginx appear `403 forbidden`, just add user xxx in /etc/nginx/nginx.conf.

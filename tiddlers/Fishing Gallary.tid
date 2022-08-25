@@ -1,0 +1,16 @@
+created: 20220503073246611
+creator: oeyoews
+icon: $:/favicon.ico
+modified: 20220525063103766
+modifier: oeyoews
+tags: docs
+title: Fishing Gallary
+type: text/vnd.tiddlywiki
+
+{{Beauty Gallary}}
+---
+<div class="ocenter">
+<img class="oimg" src="https://cdn.jsDelivr.net/gh/oeyoews/img/consolefishing.png" alt="1"/>
+<img class="oimg" src="https://cdn.jsDelivr.net/gh/oeyoews/img/terminaldemo.png" alt="2"/>
+<img class="oimg" src="https://cdn.jsDelivr.net/gh/oeyoews/img/overviewdemo.png" alt="3"/>
+</div>

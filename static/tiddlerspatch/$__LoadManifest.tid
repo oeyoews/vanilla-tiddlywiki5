@@ -1,0 +1,74 @@
+created: 20220407162657869
+creator: @oeyoews
+modified: 20220407162722037
+modifier: @oeyoews
+tags: $:/tags/RawMarkup
+title: Load Manifest
+type: text/vnd.tiddlywiki
+
+<!-- test -->
+<meta name="apple-touch-fullscreen" content="yes">
+
+<!--
+<meta http-equiv="Refresh"content="2;URL=http://oeyoew.fun">
+-->
+
+<meta name="x5-orientation" content="landscape">
+
+<meta name="mobile-web-app-capable" content="yes">
+  <!-- ban to scale window in app -->
+<meta name="format-detection" content="telephone=no">
+<!--  cache control -->
+<!-- ban select text use html css -->
+
+<!-- === sw === -->
+<!-- must in root -->
+<link rel="manifest" href="manifest.webmanifest">
+
+<meta name="keywords" content="oeyoews, tiddlywiki, Tiddlywiki5, FishForYou, ffy, memory, word">
+
+<meta name="description" content="🎣 Hello, Welcome to Here, This is a linear notebook @oeyoews <FishForYou(FFY)>">
+
+<meta name="author" content="oeyoews">
+
+<meta name="theme-color" content="#073642"/>
+
+<!-- https://realfavicongenerator.net/ -->
+<!-- === apple === -->
+<!-- https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html -->
+  <!-- fix apple-touch-icon and add description -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+  <!-- Hiding Safari User Interface Components -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+  <!-- Changing the Status Bar Appearance -->
+  <!-- maybe fix scroll sticky title  -->
+  <!-- control mobile status bar -->
+  <meta content="no" name="apple-mobile-web-app-status-bar-style" content="black">
+  <!-- launch title
+<meta name="apple-mobile-web-app-title" content="FishForYou">
+  -->
+  <!-- launch image
+  -->
+  <!-- https://developer.yoast.com/blog/safari-pinned-tab-icon-mask-icon/ -->
+<link rel="apple-touch-startup-image" href="/apple-touch-icon.png">
+
+<link rel='mask-icon' href='safari-pinned-tab.svg' color='cyan'>
+
+<!-- use service-worker -->
+<script src="workbox-startup.js"></script>
+
+<!-- seo -->
+  <!-- bing -->
+<meta name="msvalidate.01" content="E8683F5E100FFB5E58004DEED2AA7C59" />
+  <!-- google -->
+<meta name="google-site-verification" content="49OWyxN7fqK6eipHEwCeeB4w-6-ysdjsK9builthqkI" />
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P65LGY39KH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P65LGY39KH');
+</script>

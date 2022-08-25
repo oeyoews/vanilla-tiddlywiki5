@@ -1,0 +1,54 @@
+created: 20220505063228834
+creator: oeyoews
+modified: 20220516133744746
+modifier: oeyoews
+tags: config
+title: Sites For Me
+type: text/vnd.tiddlywiki
+
+<!--
+<details style="color: cyan;">
+<summary>TOC</summary>
+<iframe src="https://oeyoew.fun" scrolling="no" />
+
+<iframe src="https://twms.vercel.app" scrolling="no" />
+
+<iframe src="https://twmgift.vercel.app" scrolling="no" />
+
+</details>
+-->
+
+<!--
+[[slidev7|https://slidev7.vercel.app]]
+<a  href="https://gitlab.com/oeyoews/slidev7/-/commits/main"><img alt="pipeline status" src="https://gitlab.com/oeyoews/slidev7/badges/main/pipeline.svg" /></a>
+
+[[revealjs|https://revealdoc.vercel.app]]
+<a href="https://gitlab.com/oeyoews/revealdoc/-/commits/main"><img alt="pipeline status" src="https://gitlab.com/oeyoews/revealdoc/badges/main/pipeline.svg" /></a>
+
+[[vuepress|https://vues.vercel.app]]
+<a href="https://gitlab.com/oeyoews/vuepressblog/-/commits/dev"><img alt="pipeline status" src="https://gitlab.com/oeyoews/vuepressblog/badges/dev/pipeline.svg" /></a>
+
+-->
+
+
+<!-- todo transform
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+[![Release](https://github.com/oeyoews/tw5/actions/workflows/release.yml/badge.svg?branch=tw6)](https://github.com/oeyoews/tw5/actions/workflows/release.yml)
+-->
+
+<a class="oag" href="https://oeyoew.fun" target="_blank">Status</a>
+
+---
+<!-- jsdelivr -->
+<!-- gitlab ci/cd -->
+<!--
+<a href="https://gitlab.com/oeyoews/tw5/-/commits/tw6" target="_blank"><img alt="CI/CD status" src="https://gitlab.com/oeyoews/tw5/badges/tw6/pipeline.svg" /></a>
+-->
+<!--
+<a href="https://gitlab.com/oeyoews/tw5/-/releases" target="_blank"><img alt="Latest Release" src="https://gitlab.com/oeyoews/tw5/-/badges/release.svg" /></a>
+[img[https://img.shields.io/gitlab/v/tag/oeyoews/tw5?style=social&logo=appveyor]]
+-->
+
+<a href="https://www.jsdelivr.com/package/gh/oeyoews/img" target="_blank"><img alt="status" src="https://data.jsdelivr.com/v1/package/gh/oeyoews/img/badge" /></a>
+<img alt="Gitlab pipeline status" src="https://img.shields.io/gitlab/pipeline-status/oeyoews/tw5?branch=tw6">
+<img alt="GitLab Release (latest by date)" src="https://img.shields.io/gitlab/v/release/oeyoews/tw5">

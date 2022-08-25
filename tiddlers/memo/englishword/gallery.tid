@@ -1,0 +1,28 @@
+created: 20220314075948800
+creator: @oeyoews
+difficulty: 1
+due: 20220603023142505
+grade: 2
+history: [{"due":"20220319084113101","interval":0,"difficulty":1.349480127946827,"stability":0.10000181198120117,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20220318084113101"},{"due":"20220402055057209","interval":2,"difficulty":1,"stability":13.480723478488205,"retrievability":0.12158129666587415,"grade":2,"lapses":0,"reps":2,"review":"20220320055057208"}]
+interval: 13
+lapses: 0
+modified: 20220402023142505
+modifier: @oeyoews
+reps: 3
+retrievability: 0.9033878068599924
+review: 20220402023142505
+stability: 62.244991822654534
+tags: EnglishWord ?
+title: gallery
+type: text/vnd.tiddlywiki
+
+<<<.tc-fish-quote
+"""
+gallery
+英 ['gæl(ə)rɪ]  美 ['gæləri]
+n. ''画廊''；走廊；旁听席；地道
+vt. 在…修建走廊；在…挖地道
+vi. 挖地道
+n. (Gallery)人名；(英)加勒里
+"""
+<<<

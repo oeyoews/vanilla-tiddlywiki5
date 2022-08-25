@@ -1,0 +1,14 @@
+created: 20220127031436259
+creator: oeyoews
+modified: 20220301154138575
+modifier: oeyoews
+tags: git
+title: removeGitTag
+type: text/vnd.tiddlywiki
+
+* [[ryf|https://www.liaoxuefeng.com/wiki/896043488029600/902335479936480]]
+
+* git push origin --tags
+* git push -uf origin main
+* git push origin :refs/tags/v10.1-7
+* git tag -d v0.1
