@@ -1,1 +1,0 @@
-<link href="https://fonts.googleapis.com/css2?family=Long+Cang&display=swap" rel="stylesheet">

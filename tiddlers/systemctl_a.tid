@@ -1,9 +1,0 @@
-created: 20211226174011329
-history: []
-modified: 20220217114047172
-modifier: oeyoews
-tags: Linux
-title: systemctl/a
-type: text/vnd.tiddlywiki
-
-* systemctl list-unit-files

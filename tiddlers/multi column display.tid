@@ -1,9 +1,0 @@
-created: 20220102143259818
-modified: 20220217114047161
-modifier: oeyoews
-tags: docs
-title: multi column display
-type: text/vnd.tiddlywiki
-
-!! LINUX HOME PAGE
-<<tabs tabsList:"[tag[Linux]]" default:"group/a1" class:"tc-vertical">>
