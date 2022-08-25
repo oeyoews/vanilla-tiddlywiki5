@@ -1,44 +1,16 @@
 {
-  "name": "FishingForYou",
-  "version": "2.12.0",
+  "name": "vanilla-tiddlywiki5",
+  "version": "0.1.0",
   "main": "index.html",
   "repository": "https://gitlab.com/oeyoews/tw5.git",
   "author": "oeyoews <jyao4783@gmail.com>",
   "license": "MIT",
-  "keywords": [
-    "TiddlyWIki5",
-    "Remember",
-    "EnglishWord",
-    "Recite",
-    "FishingForYou"
-  ],
   "scripts": {
-    "semantic-release": "semantic-release",
-    "vercel-build": "bash scripts/vercel-build.sh",
-    "copy-tidpatch": "cp static/tiddlerspatch/* tiddlers/",
     "build": "tiddlywiki --output public --build index",
-    "build-online": "tiddlywiki --output public --build online > /dev/null",
-    "copy-workbox": "cp static/workboxroot/* public",
-    "copy-install": "cp scripts/install/* public",
-    "workbox-inje": "workbox injectManifest scripts/workbox-config.js ",
-    "visual-public": "tree -L 1 public",
-    "test": "bash scripts/test.sh",
     "clean": "rm -rf public test",
-    "sitemap": "tiddlywiki --output public/ --render sitemap sitemap.xml text/plain",
-    "start": "tiddlywiki  --listen port=8080",
-    "debug": "tiddlywiki  --listen port=8080 host=0.0.0.0"
+    "start": "tiddlywiki  --listen port=8080"
   },
   "dependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
-    "@semantic-release/gitlab": "^9.2.1",
-    "semantic-release": "^19.0.2",
-    "tiddlywiki": "^5.2.2",
-    "tree-node-cli": "^1.5.2",
-    "workbox-cli": "^6.5.2"
-  },
-  "private": true,
-  "engines": {
-    "node": ">=16.0"
+    "tiddlywiki": "5.2.3"
   }
 }
