@@ -11,6 +11,6 @@
     "start": "tiddlywiki  --listen port=8080"
   },
   "dependencies": {
-    "tiddlywiki": "5.2.3"
+    "tiddlywiki": "5.2.5"
   }
 }
